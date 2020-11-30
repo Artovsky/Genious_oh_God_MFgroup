@@ -1,10 +1,11 @@
 // Task 1
 // let time = 0
 // function times(){
-//     console.log(time)
-//     time = time + 1
+//     document.getElementById("Time").innerHTML = time.toFixed(2);
+//     time = time + 0.01
 // }
-// setInterval(times,1000)
+// let stopwatch = setInterval(times,10)
+// кнопки в html файле
 
 // Task 2
 // let time = prompt('Время секундомера в секундах',10);
